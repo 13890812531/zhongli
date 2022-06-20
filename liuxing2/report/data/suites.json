@@ -1,0 +1,136 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_web",
+      "children" : [ {
+        "name" : "Test_web",
+        "children" : [ {
+          "name" : "test_page[args0]",
+          "uid" : "8425c6f7a2699121",
+          "parentUid" : "1a5019e13718f1df69b1b07152432621",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654745023671,
+            "stop" : 1654745052717,
+            "duration" : 29046
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'value': '刻晴', 'handle_value': 1, 'shijian': 2, 'element': 1, 'valu': 0, 'zhi': 1}" ]
+        }, {
+          "name" : "test_zixun[keqing0]",
+          "uid" : "d6e8243f7156130f",
+          "parentUid" : "1a5019e13718f1df69b1b07152432621",
+          "status" : "failed",
+          "time" : {
+            "start" : 1654745052824,
+            "stop" : 1654745079342,
+            "duration" : 26518
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'handle_value': 1, 'zhi': '北京新闻', 'dao': '成都新闻'}" ]
+        }, {
+          "name" : "test_shipin[ganyu0]",
+          "uid" : "e7ba00dda94bf94b",
+          "parentUid" : "1a5019e13718f1df69b1b07152432621",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654745079707,
+            "stop" : 1654745107670,
+            "duration" : 27963
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'shijian': 2, 'handle_value': 1, 'value': '刻晴', 'zhi': '视频'}" ]
+        }, {
+          "name" : "test_tupian[qi0]",
+          "uid" : "50bcf987d007793d",
+          "parentUid" : "1a5019e13718f1df69b1b07152432621",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654745107677,
+            "stop" : 1654745155000,
+            "duration" : 47323
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'value': '可莉', 'zhi': '炸弹'}" ]
+        }, {
+          "name" : "test_zhidao[li0]",
+          "uid" : "a73efe2c230aa9f4",
+          "parentUid" : "1a5019e13718f1df69b1b07152432621",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654745155007,
+            "stop" : 1654745230057,
+            "duration" : 75050
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'value1': 0, 'handle_value': 1, 'value2': 1, 'handle_value1': 2, 'zhi': '立即注册'}" ]
+        }, {
+          "name" : "test_wenku[qing10]",
+          "uid" : "c8b0b1e51c152a2a",
+          "parentUid" : "1a5019e13718f1df69b1b07152432621",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654745230198,
+            "stop" : 1654745331308,
+            "duration" : 101110
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'zhi': '确定'}" ]
+        }, {
+          "name" : "test_tieba[ba0]",
+          "uid" : "97d822eaa0a21572",
+          "parentUid" : "1a5019e13718f1df69b1b07152432621",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654745381008,
+            "stop" : 1654745413302,
+            "duration" : 32294
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'value': '刻晴', 'zhi': '刻晴吧'}" ]
+        } ],
+        "uid" : "1a5019e13718f1df69b1b07152432621"
+      } ],
+      "uid" : "cf90f3f0590e5d6d625c3dd4413f451e"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

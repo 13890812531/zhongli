@@ -1,0 +1,63 @@
+{
+  "uid" : "97d822eaa0a21572",
+  "name" : "test_tieba[ba0]",
+  "fullName" : "test_case.test_web.Test_web#test_tieba",
+  "historyId" : "4dd8dbe311c32512b71b0abb973130e3",
+  "time" : {
+    "start" : 1654745381008,
+    "stop" : 1654745413302,
+    "duration" : 32294
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_web"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_web"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0S9DG3S"
+  }, {
+    "name" : "thread",
+    "value" : "7816-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_web"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ba",
+    "value" : "{'value': '刻晴', 'zhi': '刻晴吧'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97d822eaa0a21572.json",
+  "parameterValues" : [ "{'value': '刻晴', 'zhi': '刻晴吧'}" ]
+}

@@ -1,0 +1,63 @@
+{
+  "uid" : "50bcf987d007793d",
+  "name" : "test_tupian[qi0]",
+  "fullName" : "test_case.test_web.Test_web#test_tupian",
+  "historyId" : "a1749217849b66f0d4152413aaf12011",
+  "time" : {
+    "start" : 1654745107677,
+    "stop" : 1654745155000,
+    "duration" : 47323
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_web"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_web"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0S9DG3S"
+  }, {
+    "name" : "thread",
+    "value" : "7816-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_web"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "qi",
+    "value" : "{'value': '可莉', 'zhi': '炸弹'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50bcf987d007793d.json",
+  "parameterValues" : [ "{'value': '可莉', 'zhi': '炸弹'}" ]
+}

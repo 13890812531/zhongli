@@ -1,0 +1,10 @@
+-
+  name: 测试用例
+  request:
+      methd: get
+      url: https:\\www.baidu.com
+      params:
+           age: 21
+           height: 170
+      headers:
+  vilidata:

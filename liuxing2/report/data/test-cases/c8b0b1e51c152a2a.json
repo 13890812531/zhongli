@@ -1,0 +1,63 @@
+{
+  "uid" : "c8b0b1e51c152a2a",
+  "name" : "test_wenku[qing10]",
+  "fullName" : "test_case.test_web.Test_web#test_wenku",
+  "historyId" : "21e28c4ad5f4e829133ee7acddbc94d8",
+  "time" : {
+    "start" : 1654745230198,
+    "stop" : 1654745331308,
+    "duration" : 101110
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_web"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_web"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0S9DG3S"
+  }, {
+    "name" : "thread",
+    "value" : "7816-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_web"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "qing1",
+    "value" : "{'zhi': '确定'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8b0b1e51c152a2a.json",
+  "parameterValues" : [ "{'zhi': '确定'}" ]
+}
