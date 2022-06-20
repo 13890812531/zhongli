@@ -1,0 +1,101 @@
+[ {
+  "uid" : "754f37956e35d8f6",
+  "name" : "test_8[data_80]",
+  "time" : {
+    "start" : 1655190006943,
+    "stop" : 1655190064370,
+    "duration" : 57427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "755dfe490942af5d",
+  "name" : "test_4[data_40]",
+  "time" : {
+    "start" : 1655189766687,
+    "stop" : 1655189823802,
+    "duration" : 57115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db39551b7b4704d7",
+  "name" : "test_2[data_20]",
+  "time" : {
+    "start" : 1655189650784,
+    "stop" : 1655189708002,
+    "duration" : 57218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5363bb82e6f3d5",
+  "name" : "test_smtp[smtp_100]",
+  "time" : {
+    "start" : 1655190202839,
+    "stop" : 1655190343765,
+    "duration" : 140926
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23cc4d3f36d0d116",
+  "name" : "test_5[data_50]",
+  "time" : {
+    "start" : 1655189823817,
+    "stop" : 1655189881898,
+    "duration" : 58081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "689a9aa77ba0903d",
+  "name" : "test_6[data_60]",
+  "time" : {
+    "start" : 1655189881914,
+    "stop" : 1655189940402,
+    "duration" : 58488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8047bcc911717833",
+  "name" : "test_pop3[pop3_90]",
+  "time" : {
+    "start" : 1655190064377,
+    "stop" : 1655190202832,
+    "duration" : 138455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "252120becba1ee2c",
+  "name" : "test_3[data_30]",
+  "time" : {
+    "start" : 1655189710189,
+    "stop" : 1655189766671,
+    "duration" : 56482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b049bac0d82868",
+  "name" : "test_1[data_10]",
+  "time" : {
+    "start" : 1655189591089,
+    "stop" : 1655189650784,
+    "duration" : 59695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d96a0af2a9719f41",
+  "name" : "test_7[data_70]",
+  "time" : {
+    "start" : 1655189940402,
+    "stop" : 1655190006936,
+    "duration" : 66534
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

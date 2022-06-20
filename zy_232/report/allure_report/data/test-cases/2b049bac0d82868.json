@@ -1,0 +1,63 @@
+{
+  "uid" : "2b049bac0d82868",
+  "name" : "test_1[data_10]",
+  "fullName" : "test_case.test_web.Test_web#test_1",
+  "historyId" : "e80bfa40ebb09f0719095791bc6e8f70",
+  "time" : {
+    "start" : 1655189591089,
+    "stop" : 1655189650784,
+    "duration" : 59695
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_web"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_web"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0S9DG3S"
+  }, {
+    "name" : "thread",
+    "value" : "17432-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_web"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data_1",
+    "value" : "{'value1': 30, 'time1': 25, 'time2': 20, 'zhi': '帧速率/数据速率'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b049bac0d82868.json",
+  "parameterValues" : [ "{'value1': 30, 'time1': 25, 'time2': 20, 'zhi': '帧速率/数据速率'}" ]
+}
