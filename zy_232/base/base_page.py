@@ -26,7 +26,7 @@ class Base():
         return self.driver.find_elements(*loc)
     #点击单个元素
     def click(self,loc):
-        self.location(loc).click()ls
+        self.location(loc).click()
 
 
     #进入iframe页面
